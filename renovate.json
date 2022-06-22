@@ -15,7 +15,8 @@
     {
       "matchManagers": ["bundler"],
       "matchPackageNames": ["rails"],
-      "separateMinorPatch": true
+      "separateMinorPatch": true,
+      "dependencyDashboardApproval": true
     },
     {
       "enabled": false,
